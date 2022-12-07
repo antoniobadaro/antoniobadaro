@@ -1,6 +1,8 @@
 <h1 align="center">Oi, eu sou o Antonio!</h1>
 <h3 align="center">Eu sou desenvolvedor back-end</h3>
 
+
+
 - 🌱 I’m currently learning **Java, SQL, SpringBoot**
 
 - 📫 How to reach me: **antoniogbi91@gmail.com**
@@ -26,7 +28,7 @@
 
 <div align="left">
   <a href="https://github.com/antoniobadaro">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=antoniobadaro&show_icons=true&locale=en"/>
-  <img height="180em" width="45%"src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniobadaro&show_icons=true&locale=en&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniobadaro&theme=dark&show_icons=true&locale=en"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniobadaro&layout=compact&theme=dark&show_icons=true&locale=en"/>
 </div>
 
