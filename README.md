@@ -26,7 +26,7 @@
 
 <div align="left">
   <a href="https://github.com/antoniobadaro">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=antoniobadaro&show_icons=true&locale=en"/>
-  <img height="180em" width="40%"src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniobadaro&show_icons=true&locale=en&layout=compact"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=antoniobadaro&show_icons=true&locale=en"/>
+  <img height="180em" width="45%"src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniobadaro&show_icons=true&locale=en&layout=compact"/>
 </div>
 
