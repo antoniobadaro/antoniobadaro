@@ -23,8 +23,7 @@
 
 
 <div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=antoniobadaro&show_icons=true&locale=en" alt="antoniobadaro"/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniobadaro&show_icons=true&locale=en&layout=compact" alt="antoniobadaro" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniobadaro&show_icons=true&locale=en"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniobadaro&show_icons=true&locale=en&layout=compact"/>
 </div>
 
