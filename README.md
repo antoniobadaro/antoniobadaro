@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Antonio!</h1>
+<h1 align="left">Fala pessoal, eu sou o Antonio, estudante de Engenharia de Software!</h1>
 <h3 align="center">Eu sou desenvolvedor back-end</h3>
 
 
