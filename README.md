@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Java, SQL, SpringBoot**
+- 🌱 I’m currently learning **C#, .NET, ASP.NET**
 
 - 📫 How to reach me: **antoniogbi91@gmail.com**
 
